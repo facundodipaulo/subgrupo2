@@ -5,6 +5,9 @@ body {
     background-color: rgb(112, 208, 249);
 }
 
+h1 {
+    color:green;
+}
 .image{
     border: 5px solid green;
     border-radius: 10px;
