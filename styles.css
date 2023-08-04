@@ -1,7 +1,10 @@
 body {
-    background-color: rgb(190, 213, 122);
+    background-color: rgb(255, 255, 165);
 }
 
+h1 {
+    color:green;
+}
 .image{
     border: 5px solid green;
     border-radius: 10px;
