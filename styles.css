@@ -1,6 +1,8 @@
 body {
-    background-color: rgb(112, 208, 249);
+    background-image: url(maxresdefault.jpg);
+    background-size: cover;
 }
+
 
 .image{
     border: 5px solid green;
@@ -18,7 +20,5 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
-body{
-    background-image: url(maxresdefault.jpg);
-    background-size: cover;
-}
+
+ 
