@@ -14,10 +14,17 @@ h1{
     text-decoration: none;
     color: black;
     border: 1px solid gray;
-    background-color: #f2f2f2;
+    background-color: #5ea6ee;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.link-button:hover{
+    background-color: blanchedalmond;
 }
 
 p {
