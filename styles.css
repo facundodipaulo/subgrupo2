@@ -1,13 +1,26 @@
 body {
-    background-color: rgb(112, 208, 249);
+    background-color: rgba(0, 0, 0, 0.857);
 }
 h1{
     text-align: center;
+    margin: 50px 100px;
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    margin-top: 130px;
+    margin-left: 80px;
+    color: white;
 }
 .image{
-    border: 5px solid green;
+    border: 5px solid rgb(255, 255, 255);
     border-radius: 10px;
     height: 400px;
+}
+
+.image:hover{
+    transform: scale(1.04);
 }
 
 .link-button {
@@ -33,11 +46,9 @@ p {
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+    color: white;
 }
-h1{
-    font-size: 2em;
-    color: green;
-}
+
 
 *{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
